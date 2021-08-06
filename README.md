@@ -15,6 +15,7 @@ Saída:   0x974AFFBF86022D1F
 
 Mais informações podem serem encontradas em http://page.math.tu-berlin.de/~kant/teaching/hess/krypto-ws2006/des.htm
 
+-------------
 Algoritmo de criptografia AES (Advanced Encryption Standard)
 
 Criptografia simétrica, sucessor do antigo DES com estrutura mais complexa e capacidade de chave expandida. Padronizada pelo NIST, a criptografia AES suporta de 128, 192 e 256 bits como chave oficialmente. Atua em blocos de 128 bits de entrada e devolve 128 bits de saída.
