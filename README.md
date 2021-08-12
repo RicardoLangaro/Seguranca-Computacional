@@ -29,3 +29,8 @@ Saída:   69c4e0d86a7b0430d8cdb78070b4c55a
 Dada Entrada:   50414c4553545241204e4f204c4e4343    
 Key:   424f4c534953544120444f20434e5071    
 Saída:   e6234e3a1695fb78847d99d13bcb5d94
+
+-------------
+Algoritmo de criptografia RSA (Rivest Shamir Adleman)
+
+Exemplo de criptografia de texto utilizando o conceito de par de chaves pública e privada pela biblioteca Crypto.
