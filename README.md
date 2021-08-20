@@ -40,4 +40,4 @@ Algoritmo de Assinatura Digital DSA (ElGamal)
 
 DSA é um algoritmo de assinatura de chave pública amplamente difundido. O algoritmo só pode ser usado para autenticação (assinatura digital), não pode ser usado para confidencialidade (criptografia).
 
-Exemplo de assinatura para mensagem de texto e verificação por chave pública usando a biblioteca Crypto.
+Exemplo de assinatura para mensagem de texto e verificação por chave pública usando a biblioteca Crypto. Mais informações podem serem encontradas em https://pycryptodome.readthedocs.io/en/latest/src/introduction.html
