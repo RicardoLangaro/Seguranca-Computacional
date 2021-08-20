@@ -33,4 +33,11 @@ Saída:   e6234e3a1695fb78847d99d13bcb5d94
 -------------
 Algoritmo de criptografia RSA (Rivest Shamir Adleman)
 
-Exemplo de criptografia de texto utilizando o conceito de par de chaves pública e privada pela biblioteca Crypto.
+Exemplo de criptografia assimétrica de texto utilizando o conceito de par de chaves pública e privada com a biblioteca Crypto.
+
+-------------
+Algoritmo de Assinatura Digital DSA (ElGamal)
+
+DSA é um algoritmo de assinatura de chave pública amplamente difundido. O algoritmo só pode ser usado para autenticação (assinatura digital), não pode ser usado para confidencialidade (criptografia).
+
+Exemplo de assinatura para mensagem de texto e verificação por chave pública usando a biblioteca Crypto.
